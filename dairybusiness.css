@@ -1,0 +1,10 @@
+body{
+    background: url("http://bit.ly/kings_college_chapel");
+    font-style: italic;
+    font-weight: bolder;
+    color: rgb(30, 30, 68);
+};
+script{
+    box-sizing: content-box;
+    float:left;
+}
